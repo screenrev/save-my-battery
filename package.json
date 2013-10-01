@@ -1,5 +1,5 @@
 {
-  "name": "Save My Battery",
+  "name": "save-my-battery",
   "version": "0.1.0",
   "description": "Save your battery in OS X",
   "main": "save-my-battery.js",
