@@ -1,0 +1,14 @@
+{
+  "name": "Save My Battery",
+  "version": "0.1.0",
+  "description": "Save your battery in OS X",
+  "main": "save-my-battery.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "node-notifier": "~1.0.0-beta"
+  }
+}
