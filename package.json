@@ -1,8 +1,9 @@
 {
   "name": "save-my-battery",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Save your battery in OS X",
   "main": "save-my-battery.js",
+  "repo": "git@github.com:screenrev/save-my-battery.git",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
