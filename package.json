@@ -1,6 +1,6 @@
 {
   "name": "save-my-battery",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Save your battery in OS X",
   "main": "save-my-battery.js",
   "repo": "git@github.com:screenrev/save-my-battery.git",
@@ -8,7 +8,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "zlease": "lib/zlease"
+    "save-my-battery": "./save-my-battery.js"
   },
   "author": "",
   "license": "BSD-2-Clause",
